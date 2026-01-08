@@ -1,5 +1,6 @@
 
-# 📊 Retail Sales Performance Dashboard 
+# 📊 End-to-End-Retail-Sales-Analysis
+
 
 ## 🔍 Project Overview
 This is an end-to-end retail sales dashboard built using **Power BI**.  
