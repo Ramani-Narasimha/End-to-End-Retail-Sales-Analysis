@@ -86,7 +86,7 @@ The dashboard is designed to be **interactive, user-friendly, and business-focus
   - Top 5 States by Sales
   - Actual vs Monthly Target performance
 
-- **Bar Analysis Page**
+- **Bar Page**
   - Unit Price and Quantity by Region
   - Unit Price Contribution by State
   - Target reference lines for comparison
