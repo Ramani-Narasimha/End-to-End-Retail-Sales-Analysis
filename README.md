@@ -109,7 +109,7 @@ A short video walkthrough is included to explain:
 - KPIs and charts
 - Insights and business interpretation
 
-📌 **Video link:** *(Add your Google Drive / YouTube / LinkedIn video link here)*
+📌 **Video link:** **
 The video demonstrates page navigation, filters, KPIs, charts, and the insights section of the dashboard.
 ---
 
