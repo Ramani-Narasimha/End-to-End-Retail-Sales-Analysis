@@ -50,6 +50,10 @@ A **Star Schema** design was implemented for better performance and clarity.
   - Date (created in Power BI)
 
 Proper relationships were created to support accurate filtering and time-based analysis.
+### 📐 Data Model (Star Schema)
+The dashboard follows a star schema design with a central Sales fact table and supporting dimension tables.
+
+![Star Schema Data Model](PowerBI/Data_Modeling_Star_Schema.png)
 
 ---
 
