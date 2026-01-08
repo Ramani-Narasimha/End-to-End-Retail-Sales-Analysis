@@ -55,6 +55,7 @@ The dashboard follows a star schema design with a central Sales fact table and s
 
 ![Star Schema Data Model](PowerBI/Data_Modeling_Star_Schema.png)
 
+
 ---
 
 ## 🧮 Measures & KPIs (DAX)
