@@ -11,7 +11,8 @@ The goal of this project is to convert raw sales data into **interactive dashboa
 ## 🛠️ Tools & Technologies Used
 - Power BI (Dashboard & Visualization)
 - Power Query (Data Cleaning)
-- DAX Measures
+- DAX (Measures & KPIs)
+
 
 ---
 ## 📁 Dataset Description
@@ -31,7 +32,7 @@ Additional table:
 Data cleaning was performed using **Power Query** in Power BI.
 
 Key steps included:
-- Handling missing values in payment method, unit price, state, and region
+- Handling missing values in payment method, unit price, state, and region columns.
 - Replacing null values using business logic
 - Standardizing data formats (dates, numbers)
 - Ensuring data consistency across tables
@@ -53,18 +54,12 @@ Proper relationships were created to support accurate filtering and time-based a
 ### 📐 Data Model (Star Schema)
 The dashboard follows a star schema design with a central Sales fact table and supporting dimension tables.
 
-![Star Schema Data Model](Power BI/Data_Modeling_Star_Schema.png)
+![Star Schema Data Model](Power%20BI/Data_Modeling_Star_Schema.png)
 
-
----
-
-## 🧮 Measures & KPIs (DAX)
-DAX was used to create key business measures and KPIs.
-
-
----
+----
 
 ## 📊 Dashboard Review
+
 The dashboard is designed to be **interactive, user-friendly, and business-focused**.
 
 ### Key Features:
@@ -114,8 +109,9 @@ A short video walkthrough is included to explain:
 - KPIs and charts
 - Insights and business interpretation
 
-📌 **Video link:** **
-The video demonstrates page navigation, filters, KPIs, charts, and the insights section of the dashboard.
+📌 **Video link:**https://drive.google.com/file/d/1QgL2oqZNExCoWgUXMUbLgoerktKE3n93/view?usp=sharing**
+
+- The video demonstrates page navigation, filters, KPIs, charts, and the insights section of the dashboard.
 ---
 
 
