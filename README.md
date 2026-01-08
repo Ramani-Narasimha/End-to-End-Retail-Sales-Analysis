@@ -26,23 +26,25 @@ Excel files created:
 Additional table:
 - **Date Table** – Created inside Power BI for time-based analysis
 
----
 ## 📂 Repository Structure
-
+```
 End-to-End-Retail-Sales-Analysis/
-├── Datasets/
-│   ├── Products.xlsx
-│   ├── Sales.xlsx
-│   ├── Sales Data Cleaned.xlsx
-│   └── Stores.xlsx
+|__ Datasets/
+│   |__ Products.xlsx
+│   |__ Sales.xlsx
+│   |__ Sales Data Cleaned.xlsx
+│   |__ Stores.xlsx
 │
-|── Power BI/
-│   ├── Retail Sales Dashboard.pbix
-│   └── Data_Modeling_Star_Schema.png
+|__ Power BI/
+    |__ Data_Modeling_Star_Schema.png
+│   |__ Retail Sales Dashboard.pbix
+│   
 │
-└── README.md
+|__ README.md
+```
 
----
+
+
 ## 🧹 Data Cleaning
 Data cleaning was performed using **Power Query** in Power BI.
 
