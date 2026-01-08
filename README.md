@@ -53,7 +53,7 @@ Proper relationships were created to support accurate filtering and time-based a
 ### 📐 Data Model (Star Schema)
 The dashboard follows a star schema design with a central Sales fact table and supporting dimension tables.
 
-![Star Schema Data Model](PowerBI/Data_Modeling_Star_Schema.png)
+![Star Schema Data Model](Power BI/Data_Modeling_Star_Schema.png)
 
 
 ---
