@@ -3,9 +3,10 @@
 
 
 ## 🔍 Project Overview
-This is an end-to-end retail sales dashboard built using **Power BI**.  
-I created synthetic retail sales data and used it to perform **data cleaning, data modeling, analysis, and visualization**.  
-The goal of this project is to convert raw sales data into **interactive dashboards and meaningful business insights** that support decision-making.
+
+
+This is an end-to-end retail sales dashboard built using **Power BI**.
+I created synthetic retail sales data to simulate real-world retail sales scenarios for analytical purposes and used it to perform **data cleaning, data modeling, analysis, and visualization**.The goal of this project is to convert raw sales data into interactive dashboards and meaningful business insights that support decision-making.
 
 ---
 
